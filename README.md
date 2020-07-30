@@ -1,7 +1,7 @@
 # rVAD
 
 ## Description
-This is the library for rVAD, as presented in [rVAD: An Unsupervised Segment-Based Robust Voice Activity Detection Method](https://www.sciencedirect.com/science/article/pii/S0885230819300920). 
+This is the library for an unsupervised method for robust voice activity detection (rVAD) or speech activity detection (SAD), as presented in [rVAD: An Unsupervised Segment-Based Robust Voice Activity Detection Method](https://www.sciencedirect.com/science/article/pii/S0885230819300920). 
 
 The rVAD method consists of two passes of denoising followed by a VAD stage. It has been applied as a preprocessor for speech recognition, speaker identification, language identification, age and gender identification, human-robot interaction, audio archive segmentation, and so on. [More info on this page](http://kom.aau.dk/~zt/online/rVAD/). 
 
