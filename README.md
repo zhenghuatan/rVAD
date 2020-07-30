@@ -3,7 +3,7 @@
 ## Description
 This is the library for an unsupervised method for robust voice activity detection (rVAD) or speech activity detection (SAD), as presented in [rVAD: An Unsupervised Segment-Based Robust Voice Activity Detection Method](https://www.sciencedirect.com/science/article/pii/S0885230819300920). 
 
-The rVAD method consists of two passes of denoising followed by a VAD stage. It has been applied as a preprocessor for speech recognition, speaker identification, language identification, age and gender identification, human-robot interaction, audio archive segmentation, and so on. [More info on this page](http://kom.aau.dk/~zt/online/rVAD/). 
+The rVAD method consists of two passes of denoising followed by a VAD stage. It has been applied as a preprocessor for speech recognition, speaker identification, language identification, age and gender identification, human-robot interaction, audio archive segmentation, and so on. More info on [the rVAD webpage](http://kom.aau.dk/~zt/online/rVAD/). 
 
 ## Source code for rVAD: 
 Source code in Matlab for rVAD (including rVAD-fast) is available under the [rVAD2.0](rVAD2.0/) folder. It is straightforward to use: Simply call the function vad.m. Some Matlab functions and their modified versions from the publicly available VoiceBox are included with kind permission of Mike Brookes.  
