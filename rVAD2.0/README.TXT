@@ -18,4 +18,4 @@ Contact:
   Prof Zheng-Hua Tan
   Aalborg University, Denmark
   zt@es.aau.dk
-  http://kom.aau.dk/~zt/ 
+  https://vbn.aau.dk/en/persons/107665  
