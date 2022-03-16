@@ -10,13 +10,13 @@ from scipy.signal import lfilter
 from copy import deepcopy
 import code
 
-#References
-# Z.-H. Tan and B. Lindberg, Low-complexity variable frame rate analysis for speech recognition and voice activity detection.
-# IEEE Journal of Selected Topics in Signal Processing, vol. 4, no. 5, pp. 798-807, 2010.
-# Achintya Kumar Sarkar and Zheng-Hua Tan 2017
+# Refs:
+#  [1] Z.-H. Tan, A.k. Sarkara and N. Dehak, "rVAD: an unsupervised segment-based robust voice activity detection method," Computer Speech and Language, vol. 59, pp. 1-21, 2020. 
+#  [2] Z.-H. Tan and B. Lindberg, "Low-complexity variable frame rate analysis for speech recognition and voice activity detection." 
+#  IEEE Journal of Selected Topics in Signal Processing, vol. 4, no. 5, pp. 798-807, 2010.
+
 # Version: 02 Dec 2017
-
-
+# Achintya Kumar Sarkar and Zheng-Hua Tan
 
 def speech_wave(fileName_):
     
