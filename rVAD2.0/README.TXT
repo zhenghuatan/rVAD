@@ -1,6 +1,7 @@
 Noise robust voice activity detection algorithm (rVAD).
 Version 2.0
-28 Nov 2017
+
+28 Nov 2017, Zheng-Hua Tan
 
 Usage: vad(finwav, fvad) 
        vad(finwav, fvad, opts) 
