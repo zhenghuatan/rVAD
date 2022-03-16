@@ -1,4 +1,4 @@
-Noise robust voice activity detection algorithm (rVAD).
+Noise-robust voice activity detection algorithm (rVAD).
 Version 2.0
 
 28 Nov 2017, Zheng-Hua Tan
