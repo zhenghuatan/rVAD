@@ -15,8 +15,8 @@ import code
 #  [2] Z.-H. Tan and B. Lindberg, "Low-complexity variable frame rate analysis for speech recognition and voice activity detection." 
 #  IEEE Journal of Selected Topics in Signal Processing, vol. 4, no. 5, pp. 798-807, 2010.
 
-# Version: 02 Dec 2017
-# Achintya Kumar Sarkar and Zheng-Hua Tan
+# Version: 2.0 
+# 02 Dec 2017, Achintya Kumar Sarkar and Zheng-Hua Tan
 
 def speech_wave(fileName_):
     
