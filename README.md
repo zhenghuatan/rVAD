@@ -5,7 +5,7 @@ Matlab and Python libraries for an unsupervised method for robust voice activity
 
 The rVAD method consists of two passes of denoising followed by a VAD stage. It has been applied as a preprocessor for a wide range of applications, such as speech recognition, speaker identification, language identification, age and gender identification, self-supervised learning, human-robot interaction, audio archive segmentation, and so on.  
 
-The method is unsupervised, so it is applicable to a wide range of acoustic environments, both noisy and clean. 
+The method is unsupervised, so it is applicable to a wide range of acoustic environments, and it is optimized considering both noisy and clean conditions. 
 
 ## Source code for rVAD: 
 Source code in Matlab for rVAD (including both rVAD and rVAD-fast) is available under the [rVAD2.0](rVAD2.0/) folder. It is straightforward to use: Simply call the function vad.m. Some Matlab functions and their modified versions from the publicly available VoiceBox are included with kind permission of Mike Brookes.  
