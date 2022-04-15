@@ -4,7 +4,8 @@ import code
 import pyaudio
 import wave
 
-
+# record stream audio, save it and then apply rVADfast to it
+# usage: python3 audio_stream.py
 
 CHUNK = 1024
 FORMAT = pyaudio.paInt16
