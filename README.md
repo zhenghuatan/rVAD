@@ -7,7 +7,7 @@ The rVAD method consists of two passes of denoising followed by a VAD stage. It 
 
 The method is unsupervised to make it applicable to a broad range of acoustic environments, and it is optimized considering both noisy and clean conditions. 
 
-The rVAD paper is among [the most cited articles from Computer Speech and Language published since 2018](https://www.journals.elsevier.com/computer-speech-and-language/most-cited-articles)
+The rVAD paper is among [the most cited articles from Computer Speech and Language published since 2018](https://www.journals.elsevier.com/computer-speech-and-language/most-cited-articles) (the 8th place).
 
 ## Source code for rVAD: 
 Source code in Matlab for rVAD (including both rVAD and rVAD-fast) is available under the [rVAD2.0](rVAD2.0/) folder. It is straightforward to use: Simply call the function vad.m. Some Matlab functions and their modified versions from the publicly available VoiceBox are included with kind permission of Mike Brookes.  
