@@ -12,7 +12,7 @@ The rVAD paper is among [the most cited articles from Computer Speech and Langua
 ## Source code for rVAD: 
 Source code in Matlab for rVAD (including both rVAD and rVAD-fast) is available under the [rVAD2.0](rVAD2.0/) folder. It is straightforward to use: Simply call the function vad.m. Some Matlab functions and their modified versions from the publicly available VoiceBox are included with kind permission of Mike Brookes.  
 
-Source code in Python for rVAD-fast is available under the [rVADfast_py_2.0](rVADfast_py_2.0/) folder. 
+Source code in Python for rVAD-fast is available under the [rVADfast_py_2.0](rVADfast_py_2.0/) folder. Source code for rVAD-fast to take streaming audio in is included too. 
 
 rVAD-fast is 10+ times faster than rVAD while rVAD has superior performance. 
 
