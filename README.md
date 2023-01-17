@@ -9,7 +9,7 @@ The method is unsupervised to make it applicable to a broad range of acoustic en
 
 The rVAD (out of the box) ranks the 4th place (out of 27 supervised/unsupervised systems) in a Fearless Steps Speech Activity Detection Challenge. 
 
-The rVAD paper is among [the most cited articles from Computer Speech and Language published since 2018](https://www.journals.elsevier.com/computer-speech-and-language/most-cited-articles) (the 8th place), in 2022.
+The rVAD paper is among [the most cited articles from Computer Speech and Language published since 2018](https://www.journals.elsevier.com/computer-speech-and-language/most-cited-articles) (the 6th place), in 2022.
 
 ## Source code for rVAD: 
 Source code in Matlab for rVAD (including both rVAD and rVAD-fast) is available under the [rVAD2.0](rVAD2.0/) folder. It is straightforward to use: Simply call the function vad.m. Some Matlab functions and their modified versions from the publicly available VoiceBox are included with kind permission of Mike Brookes.  
