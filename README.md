@@ -21,9 +21,7 @@ Source code in Python for rVAD-fast is available under the [rVADfast_py_2.0](rVA
 rVAD-fast is 10+ times faster than rVAD while rVAD has superior performance. 
 
 The rVADfast library is available as a python package installable via:
-
-pip install rVADfast
-
+pip install rVADfast.
 See [rVADfast GitHub page](https://github.com/zhenghuatan/rVADfast) for more details. 
 
 ## Reference VAD for Aurora 2 database:
