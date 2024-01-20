@@ -20,6 +20,10 @@ Source code in Python for rVAD-fast is available under the [rVADfast_py_2.0](rVA
 
 rVAD-fast is 10+ times faster than rVAD while rVAD has superior performance. 
 
+The rVADfast library is available as a python package installable via:
+pip install rVADfast
+See [rVADfast GitHub page](https://github.com/zhenghuatan/rVADfast) for more details. 
+
 ## Reference VAD for Aurora 2 database:
 The frame-by-frame reference VAD was generated from the clean set of Aurora 2 using forced-alignment speech recognition and has been used as a 'ground truth' for evaluating VAD algorithms. Our study shows that forced-alignment ASR performs as well as a human expert labeler for generating VAD references, as detailed in [Comparison of Forced-Alignment Speech Recognition and Humans for Generating Reference VAD](https://www.isca-speech.org/archive/pdfs/interspeech_2015/kraljevski15_interspeech.pdf). Here are the generated [reference VAD for the training set](Aurora2TrainSet-ReferenceVAD.zip) and the [reference VAD for the test set](Aurora2TestSet-ReferenceVAD.zip). 
 
